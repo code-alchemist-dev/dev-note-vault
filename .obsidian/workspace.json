@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38dd2fa006079dc1",
+        "id": "cd395a55e513db43",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0426b170c4b350",
+            "id": "663e09040116187f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Learning/100 days of python/Notes/2024-05-29.md",
+                "file": "2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Learning/100 days of python/Notes/2024-05-29.md",
+                "file": "2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Learning/100 days of python/Notes/2024-05-29.md",
+                "file": "2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Learning/100 days of python/Notes/2024-05-29.md"
+                "file": "2024-05-29.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3617ab445c0358dd",
+  "active": "663e09040116187f",
   "lastOpenFiles": [
+    "Personal/Learning/100 days of python/Notes/Day-1.md",
+    "2024-05-29.md",
+    "Templates/Daily Planning.md",
     "Personal/Learning/100 days of python/Notes/2024-05-29.md",
     "Templates/0A_3_3_Project_V2.md",
     "Templates/0A_3_1_Project.md",
@@ -170,7 +173,6 @@
     "Templates/Coding Notebook.md",
     "Templates/Calendar.md",
     "Templates/Daily Notes Template.md",
-    "Templates/Daily Planning.md",
     "Templates/Decision Journal.md",
     "Templates/Eisenhower Matrix.md",
     "Templates/Ivy Lee Method.md",
@@ -182,8 +184,6 @@
     "Apps & Services/Apps & Services.md",
     "Apps & Services/Track Time on Specific Notes with Timing.md",
     "Apps & Services/Sync Digital Highlights via Readwise.md",
-    "Apps & Services/Send Captured Text from Drafts to Obsidian.md",
-    "Apps & Services/Create Hotkeys Without Conflicts Using a Hyper Key.md",
     "Untitled.canvas",
     "20220331_165200.png",
     "Files/callbackurl.jpg",
