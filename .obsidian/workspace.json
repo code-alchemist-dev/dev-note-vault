@@ -11,8 +11,12 @@
             "id": "6e0426b170c4b350",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Learning/100 days of python/Notes/2024-05-29.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/0A_3_3_Project_V2.md",
+                "file": "Personal/Learning/100 days of python/Notes/2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/0A_3_3_Project_V2.md",
+                "file": "Personal/Learning/100 days of python/Notes/2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/0A_3_3_Project_V2.md"
+                "file": "Personal/Learning/100 days of python/Notes/2024-05-29.md"
               }
             }
           },
@@ -133,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,10 +158,11 @@
   },
   "active": "3617ab445c0358dd",
   "lastOpenFiles": [
+    "Personal/Learning/100 days of python/Notes/2024-05-29.md",
+    "Templates/0A_3_3_Project_V2.md",
     "Templates/0A_3_1_Project.md",
     "README.md",
     "Start Here.md",
-    "Templates/0A_3_3_Project_V2.md",
     "Templates/0A_3_2_ActionPlan.md",
     "Templates/0A_3_4_ProjectProposal.md",
     "Templates/5-Minute Journal.md",
@@ -178,7 +184,6 @@
     "Apps & Services/Sync Digital Highlights via Readwise.md",
     "Apps & Services/Send Captured Text from Drafts to Obsidian.md",
     "Apps & Services/Create Hotkeys Without Conflicts Using a Hyper Key.md",
-    "Apps & Services/Automated Archiving with YAML & Hazel.md",
     "Untitled.canvas",
     "20220331_165200.png",
     "Files/callbackurl.jpg",
