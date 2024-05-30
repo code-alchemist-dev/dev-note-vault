@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-29.md",
+                "file": "Personal/Learning/100 days of python/Notes/Day-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad7047cae55b18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Learning/100 days of python/Notes/Day-3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-29.md",
+                "file": "Personal/Learning/100 days of python/Notes/Day-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-29.md",
+                "file": "Personal/Learning/100 days of python/Notes/Day-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-29.md"
+                "file": "Personal/Learning/100 days of python/Notes/Day-3.md"
               }
             }
           },
@@ -156,12 +169,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "663e09040116187f",
+  "active": "1ad7047cae55b18f",
   "lastOpenFiles": [
     "Personal/Learning/100 days of python/Notes/Day-1.md",
-    "2024-05-29.md",
+    "Personal/Learning/100 days of python/Notes/Day-3.md",
     "Templates/Daily Planning.md",
-    "Personal/Learning/100 days of python/Notes/2024-05-29.md",
     "Templates/0A_3_3_Project_V2.md",
     "Templates/0A_3_1_Project.md",
     "README.md",

@@ -1,6 +1,15 @@
 ---
 date: 2024-05-29
+topic: fundamental concepts in programming part 3
+course: https://youdemy.co/learn/course/100-days-of-code-the-complete-python-pro-bootcamp-free-download-course#/course/4517/lesson/4519
 ---
+
+
+> [!NOTE] *Fundamental Concepts in Programming: Control Flow with `if` / `else` and Conditional Operators in Python*
+> 
+>  Control flow is a fundamental concept in programming that dictates the order in which instructions are executed. In Python, control flow can be managed using conditional statements such as `if`, `else`, and `elif`, along with conditional operators. These constructs allow your program to make decisions and execute different code blocks based on certain conditions.
+
+
 ## Concept
 
 ## `if` Statement
@@ -93,13 +102,13 @@ print(message)
 
 > [!NOTE] Description
 >  Conditional operators are used to form conditions in `if`, `elif`, and `else` statements. Here are the main ones:
->  - **Equality operator (`==`)**: Checks if two values are equal.
->  - **Not equal operator (`!=`)**: Checks if two values are not equal.
->  - **Greater than (`>`)**: Checks if the left value is greater than the right value.
->  - **Less than (`<`)**: Checks if the left value is less than the right value.
->  - **Greater than or equal to (`>=`)**: Checks if the left value is greater than or equal to the right value.
->  - **Less than or equal to (`<=`)**: Checks if the left value is less than or equal to the right value.
->  - 
+>  - **Equality operator ==**: Checks if two values are equal.
+>  - **Not equal operator !=**: Checks if two values are not equal.
+>  - **Greater than >**: Checks if the left value is greater than the right value.
+>  - **Less than <**: Checks if the left value is less than the right value.
+>  - **Greater than or equal to >=: Checks if the left value is greater than or equal to the right value.
+>  - **Less than or equal to <=**: Checks if the left value is less than or equal to the right value.
+
 
 
 ```python
